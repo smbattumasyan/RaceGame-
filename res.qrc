@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>logo_highway.jpg</file>
+        <file>logo_highway2.jpg</file>
+        <file>car1.png</file>
+        <file>car2.png</file>
+        <file>barrier.jpg</file>
+        <file>finish.jpg</file>
+        <file>logo_highway_start.jpg</file>
+    </qresource>
+</RCC>
